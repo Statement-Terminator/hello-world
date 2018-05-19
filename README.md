@@ -1,2 +1,2 @@
 # hello-world
-Simple Repository
+I'm new to GitHub, I'm following a tutorial explaining me how to use this.
